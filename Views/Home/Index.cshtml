@@ -1,6 +1,11 @@
 ﻿@{
      Layout = "~/Views/Shared/_Layout.cshtml";
 }
+<div>
+<p>@TempData["Message"]</p>
+</div>
+
+</<br />
 @model IEnumerable<TSach>
 @foreach (var item in Model)
 {
@@ -27,6 +32,8 @@
                 </a>
                 <h6>@item.GiaTriSach</h6>
             </div>
+            <a asp-controller ="Home" asp-action="ThemSachMoi" > THEM MOI </a>
+            <a asp-controller="Home" asp-action="XoaSach" asp-route-MaSach ="@item.MaSach"> XOA SACH</a>
         </div>
     </div>
 }

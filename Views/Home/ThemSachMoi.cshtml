@@ -1,0 +1,92 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@model _1._alazea_gh_pages.Models.TSach
+
+@{
+    ViewData["Title"] = "ThemSachMoi";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+<div class="row">
+    <div class="col-md-4">
+        <form method = "post" asp-action="ThemSachMoi">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="MaSach" class="control-label"></label>
+                <input asp-for="MaSach" class="form-control" />
+                <span asp-validation-for="MaSach" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TenSach" class="control-label"></label>
+                <input asp-for="TenSach" class="form-control" />
+                <span asp-validation-for="TenSach" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MaLoai" class="control-label"></label>
+                <select asp-for="MaLoai" class ="form-control" asp-items="ViewBag.MaLoai"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="MaNgonNgu" class="control-label"></label>
+                <select asp-for="MaNgonNgu" class ="form-control" asp-items="ViewBag.MaNgonNgu"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="MaNxb" class="control-label"></label>
+                <select asp-for="MaNxb" class ="form-control" asp-items="ViewBag.MaNxb"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="TacGia" class="control-label"></label>
+                <input asp-for="TacGia" class="form-control" />
+                <span asp-validation-for="TacGia" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NamXb" class="control-label"></label>
+                <input asp-for="NamXb" class="form-control" />
+                <span asp-validation-for="NamXb" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="LanXb" class="control-label"></label>
+                <input asp-for="LanXb" class="form-control" />
+                <span asp-validation-for="LanXb" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="GioiThieu" class="control-label"></label>
+                <input asp-for="GioiThieu" class="form-control" />
+                <span asp-validation-for="GioiThieu" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TongSoTrang" class="control-label"></label>
+                <input asp-for="TongSoTrang" class="form-control" />
+                <span asp-validation-for="TongSoTrang" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Tap" class="control-label"></label>
+                <input asp-for="Tap" class="form-control" />
+                <span asp-validation-for="Tap" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TongSoTap" class="control-label"></label>
+                <input asp-for="TongSoTap" class="form-control" />
+                <span asp-validation-for="TongSoTap" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="GiaTriSach" class="control-label"></label>
+                <input asp-for="GiaTriSach" class="form-control" />
+                <span asp-validation-for="GiaTriSach" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="FileAnh" class="control-label"></label>
+                <input asp-for="FileAnh" class="form-control" />
+                <span asp-validation-for="FileAnh" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
