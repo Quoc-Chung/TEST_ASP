@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "_1._alazea_gh_pages.Controllers.HomeAPIController",
+    "Method": "LaySachTheoMa",
+    "RelativePath": "api/HomeAPI/{mangonngu}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "mangonngu",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[_1._alazea_gh_pages.Models.TSach, 1. alazea-gh-pages, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

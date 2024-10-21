@@ -1,0 +1,1201 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\1. alazea-gh-pages.bundle.scp.css",
+      "PackagePath": "staticwebassets\\1. alazea-gh-pages.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\css\\animate.css",
+      "PackagePath": "staticwebassets\\Alazea\\css\\animate.css"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Alazea\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\css\\classy-nav.css",
+      "PackagePath": "staticwebassets\\Alazea\\css\\classy-nav.css"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\css\\elegant-icon.css",
+      "PackagePath": "staticwebassets\\Alazea\\css\\elegant-icon.css"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\Alazea\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\css\\fontscss.css",
+      "PackagePath": "staticwebassets\\Alazea\\css\\fontscss.css"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\Alazea\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\Alazea\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\fonts\\ElegantIcons.eot",
+      "PackagePath": "staticwebassets\\Alazea\\fonts\\ElegantIcons.eot"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\fonts\\ElegantIcons.svg",
+      "PackagePath": "staticwebassets\\Alazea\\fonts\\ElegantIcons.svg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\fonts\\ElegantIcons.ttf",
+      "PackagePath": "staticwebassets\\Alazea\\fonts\\ElegantIcons.ttf"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\fonts\\ElegantIcons.woff",
+      "PackagePath": "staticwebassets\\Alazea\\fonts\\ElegantIcons.woff"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\Alazea\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\fonts\\HhyaU5sn9vOmLzlnC_W6EQ.woff2",
+      "PackagePath": "staticwebassets\\Alazea\\fonts\\HhyaU5sn9vOmLzlnC_W6EQ.woff2"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\fonts\\HhyaU5sn9vOmLzloC_U.woff2",
+      "PackagePath": "staticwebassets\\Alazea\\fonts\\HhyaU5sn9vOmLzloC_U.woff2"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\fonts\\classy.eot",
+      "PackagePath": "staticwebassets\\Alazea\\fonts\\classy.eot"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\fonts\\classy.svg",
+      "PackagePath": "staticwebassets\\Alazea\\fonts\\classy.svg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\fonts\\classy.ttf",
+      "PackagePath": "staticwebassets\\Alazea\\fonts\\classy.ttf"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\fonts\\classy.woff",
+      "PackagePath": "staticwebassets\\Alazea\\fonts\\classy.woff"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\Alazea\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\Alazea\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\Alazea\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\Alazea\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\Alazea\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\img\\bg\\1.jpg",
+      "PackagePath": "staticwebassets\\Alazea\\img\\bg\\1.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\img\\bg\\10.jpg",
+      "PackagePath": "staticwebassets\\Alazea\\img\\bg\\10.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\img\\bg\\11.jpg",
+      "PackagePath": "staticwebassets\\Alazea\\img\\bg\\11.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\img\\bg\\12.jpg",
+      "PackagePath": "staticwebassets\\Alazea\\img\\bg\\12.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\img\\bg\\13.jpg",
+      "PackagePath": "staticwebassets\\Alazea\\img\\bg\\13.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\img\\bg\\14.jpg",
+      "PackagePath": "staticwebassets\\Alazea\\img\\bg\\14.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\img\\bg\\15.jpg",
+      "PackagePath": "staticwebassets\\Alazea\\img\\bg\\15.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\img\\bg\\16.jpg",
+      "PackagePath": "staticwebassets\\Alazea\\img\\bg\\16.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\img\\bg\\17.jpg",
+      "PackagePath": "staticwebassets\\Alazea\\img\\bg\\17.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\img\\bg\\18.jpg",
+      "PackagePath": "staticwebassets\\Alazea\\img\\bg\\18.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\img\\bg\\19.jpg",
+      "PackagePath": "staticwebassets\\Alazea\\img\\bg\\19.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\img\\bg\\2.jpg",
+      "PackagePath": "staticwebassets\\Alazea\\img\\bg\\2.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\img\\bg\\20.jpg",
+      "PackagePath": "staticwebassets\\Alazea\\img\\bg\\20.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\img\\bg\\21.jpg",
+      "PackagePath": "staticwebassets\\Alazea\\img\\bg\\21.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\img\\bg\\22.jpg",
+      "PackagePath": "staticwebassets\\Alazea\\img\\bg\\22.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\img\\bg\\23.jpg",
+      "PackagePath": "staticwebassets\\Alazea\\img\\bg\\23.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\img\\bg\\24.jpg",
+      "PackagePath": "staticwebassets\\Alazea\\img\\bg\\24.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\img\\bg\\25.jpg",
+      "PackagePath": "staticwebassets\\Alazea\\img\\bg\\25.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\img\\bg\\26.jpg",
+      "PackagePath": "staticwebassets\\Alazea\\img\\bg\\26.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\img\\bg\\27.jpg",
+      "PackagePath": "staticwebassets\\Alazea\\img\\bg\\27.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\img\\bg\\28.jpg",
+      "PackagePath": "staticwebassets\\Alazea\\img\\bg\\28.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\img\\bg\\29.jpg",
+      "PackagePath": "staticwebassets\\Alazea\\img\\bg\\29.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\img\\bg\\3.jpg",
+      "PackagePath": "staticwebassets\\Alazea\\img\\bg\\3.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\img\\bg\\30.jpg",
+      "PackagePath": "staticwebassets\\Alazea\\img\\bg\\30.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\img\\bg\\31.jpg",
+      "PackagePath": "staticwebassets\\Alazea\\img\\bg\\31.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\img\\bg\\32.jpg",
+      "PackagePath": "staticwebassets\\Alazea\\img\\bg\\32.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\img\\bg\\33.jpg",
+      "PackagePath": "staticwebassets\\Alazea\\img\\bg\\33.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\img\\bg\\34.jpg",
+      "PackagePath": "staticwebassets\\Alazea\\img\\bg\\34.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\img\\bg\\35.jpg",
+      "PackagePath": "staticwebassets\\Alazea\\img\\bg\\35.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\img\\bg\\36.jpg",
+      "PackagePath": "staticwebassets\\Alazea\\img\\bg\\36.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\img\\bg\\37.jpg",
+      "PackagePath": "staticwebassets\\Alazea\\img\\bg\\37.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\img\\bg\\38.jpg",
+      "PackagePath": "staticwebassets\\Alazea\\img\\bg\\38.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\img\\bg\\39.jpg",
+      "PackagePath": "staticwebassets\\Alazea\\img\\bg\\39.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\img\\bg\\4.jpg",
+      "PackagePath": "staticwebassets\\Alazea\\img\\bg\\4.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\img\\bg\\40.png",
+      "PackagePath": "staticwebassets\\Alazea\\img\\bg\\40.png"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\img\\bg\\41.png",
+      "PackagePath": "staticwebassets\\Alazea\\img\\bg\\41.png"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\img\\bg\\42.png",
+      "PackagePath": "staticwebassets\\Alazea\\img\\bg\\42.png"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\img\\bg\\43.png",
+      "PackagePath": "staticwebassets\\Alazea\\img\\bg\\43.png"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\img\\bg\\44.png",
+      "PackagePath": "staticwebassets\\Alazea\\img\\bg\\44.png"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\img\\bg\\45.png",
+      "PackagePath": "staticwebassets\\Alazea\\img\\bg\\45.png"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\img\\bg\\46.png",
+      "PackagePath": "staticwebassets\\Alazea\\img\\bg\\46.png"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\img\\bg\\47.png",
+      "PackagePath": "staticwebassets\\Alazea\\img\\bg\\47.png"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\img\\bg\\48.png",
+      "PackagePath": "staticwebassets\\Alazea\\img\\bg\\48.png"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\img\\bg\\49.jpg",
+      "PackagePath": "staticwebassets\\Alazea\\img\\bg\\49.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\img\\bg\\5.jpg",
+      "PackagePath": "staticwebassets\\Alazea\\img\\bg\\5.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\img\\bg\\6.jpg",
+      "PackagePath": "staticwebassets\\Alazea\\img\\bg\\6.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\img\\bg\\7.jpg",
+      "PackagePath": "staticwebassets\\Alazea\\img\\bg\\7.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\img\\bg\\8.jpg",
+      "PackagePath": "staticwebassets\\Alazea\\img\\bg\\8.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\img\\bg\\9.jpg",
+      "PackagePath": "staticwebassets\\Alazea\\img\\bg\\9.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\img\\bg\\cool-facts.png",
+      "PackagePath": "staticwebassets\\Alazea\\img\\bg\\cool-facts.png"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\img\\bg\\subscribe.png",
+      "PackagePath": "staticwebassets\\Alazea\\img\\bg\\subscribe.png"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\img\\bg\\team1.png",
+      "PackagePath": "staticwebassets\\Alazea\\img\\bg\\team1.png"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\img\\bg\\team2.png",
+      "PackagePath": "staticwebassets\\Alazea\\img\\bg\\team2.png"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\img\\bg\\team3.png",
+      "PackagePath": "staticwebassets\\Alazea\\img\\bg\\team3.png"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\img\\bg\\team4.png",
+      "PackagePath": "staticwebassets\\Alazea\\img\\bg\\team4.png"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\img\\core\\b1.png",
+      "PackagePath": "staticwebassets\\Alazea\\img\\core\\b1.png"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\img\\core\\b2.png",
+      "PackagePath": "staticwebassets\\Alazea\\img\\core\\b2.png"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\img\\core\\b3.png",
+      "PackagePath": "staticwebassets\\Alazea\\img\\core\\b3.png"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\img\\core\\b4.png",
+      "PackagePath": "staticwebassets\\Alazea\\img\\core\\b4.png"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\img\\core\\cf1.png",
+      "PackagePath": "staticwebassets\\Alazea\\img\\core\\cf1.png"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\img\\core\\cf2.png",
+      "PackagePath": "staticwebassets\\Alazea\\img\\core\\cf2.png"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\img\\core\\cf3.png",
+      "PackagePath": "staticwebassets\\Alazea\\img\\core\\cf3.png"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\img\\core\\cf4.png",
+      "PackagePath": "staticwebassets\\Alazea\\img\\core\\cf4.png"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\img\\core\\favicon.ico",
+      "PackagePath": "staticwebassets\\Alazea\\img\\core\\favicon.ico"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\img\\core\\leaf.png",
+      "PackagePath": "staticwebassets\\Alazea\\img\\core\\leaf.png"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\img\\core\\logo.png",
+      "PackagePath": "staticwebassets\\Alazea\\img\\core\\logo.png"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\img\\core\\pot.png",
+      "PackagePath": "staticwebassets\\Alazea\\img\\core\\pot.png"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\img\\core\\s1.png",
+      "PackagePath": "staticwebassets\\Alazea\\img\\core\\s1.png"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\img\\core\\s2.png",
+      "PackagePath": "staticwebassets\\Alazea\\img\\core\\s2.png"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\img\\core\\s3.png",
+      "PackagePath": "staticwebassets\\Alazea\\img\\core\\s3.png"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\js\\active.js",
+      "PackagePath": "staticwebassets\\Alazea\\js\\active.js"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\js\\bootstrap\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Alazea\\js\\bootstrap\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\js\\bootstrap\\popper.min.js",
+      "PackagePath": "staticwebassets\\Alazea\\js\\bootstrap\\popper.min.js"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\js\\jquery\\jquery-2.2.4.min.js",
+      "PackagePath": "staticwebassets\\Alazea\\js\\jquery\\jquery-2.2.4.min.js"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\js\\plugins\\plugins.js",
+      "PackagePath": "staticwebassets\\Alazea\\js\\plugins\\plugins.js"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\scss\\_fonts.scss",
+      "PackagePath": "staticwebassets\\Alazea\\scss\\_fonts.scss"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\scss\\_mixin.scss",
+      "PackagePath": "staticwebassets\\Alazea\\scss\\_mixin.scss"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\scss\\_responsive.scss",
+      "PackagePath": "staticwebassets\\Alazea\\scss\\_responsive.scss"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\scss\\_theme_color.scss",
+      "PackagePath": "staticwebassets\\Alazea\\scss\\_theme_color.scss"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\Alazea\\scss\\style.scss"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\style.css",
+      "PackagePath": "staticwebassets\\Alazea\\style.css"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Alazea\\style.css.map",
+      "PackagePath": "staticwebassets\\Alazea\\style.css.map"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\11414_chuyen-de-thiet-ke-web-voi-photoshop-cs.jpg",
+      "PackagePath": "staticwebassets\\Sach\\11414_chuyen-de-thiet-ke-web-voi-photoshop-cs.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\12279_huong-dan-su-dung-visual-lisp-2007-danh-cho-nguoi-moi-bat-dau-.jpg",
+      "PackagePath": "staticwebassets\\Sach\\12279_huong-dan-su-dung-visual-lisp-2007-danh-cho-nguoi-moi-bat-dau-.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\12352_lap-trinh-java-nang-cao.jpg",
+      "PackagePath": "staticwebassets\\Sach\\12352_lap-trinh-java-nang-cao.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\13874_tu-hoc-frontpage2003-trong-10-tieng.jpg",
+      "PackagePath": "staticwebassets\\Sach\\13874_tu-hoc-frontpage2003-trong-10-tieng.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\14093_101-buoc-thiet-ke-trang-web-trong-10-tieng.jpg",
+      "PackagePath": "staticwebassets\\Sach\\14093_101-buoc-thiet-ke-trang-web-trong-10-tieng.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\14166_95-bai-toan-va-giai-phap-go-roi-java.jpg",
+      "PackagePath": "staticwebassets\\Sach\\14166_95-bai-toan-va-giai-phap-go-roi-java.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\141962_bi-quyet-hoc-nhanh-nho-lau.jpg",
+      "PackagePath": "staticwebassets\\Sach\\141962_bi-quyet-hoc-nhanh-nho-lau.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\14618_hoc-nhanh-flash-8-co-cd-rom-kem-theo-sach.jpg",
+      "PackagePath": "staticwebassets\\Sach\\14618_hoc-nhanh-flash-8-co-cd-rom-kem-theo-sach.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\14634_xml-nen-tang-ung-dung.jpg",
+      "PackagePath": "staticwebassets\\Sach\\14634_xml-nen-tang-ung-dung.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\14739_su-dung-dhtml-va-css-thiet-ke-web-dong.jpg",
+      "PackagePath": "staticwebassets\\Sach\\14739_su-dung-dhtml-va-css-thiet-ke-web-dong.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\14913_macromedia-dreamweaver-8-phan-co-ban-tap-2.jpg",
+      "PackagePath": "staticwebassets\\Sach\\14913_macromedia-dreamweaver-8-phan-co-ban-tap-2.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\14914_macromedia-dreamweaver-8-phan-co-ban-tap-1.jpg",
+      "PackagePath": "staticwebassets\\Sach\\14914_macromedia-dreamweaver-8-phan-co-ban-tap-1.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\15138_tu-hoc-lap-trinh-web-voi-php-trong-10-tieng.jpg",
+      "PackagePath": "staticwebassets\\Sach\\15138_tu-hoc-lap-trinh-web-voi-php-trong-10-tieng.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\15156_tu-hoc-javascript-trong-10-tieng.jpg",
+      "PackagePath": "staticwebassets\\Sach\\15156_tu-hoc-javascript-trong-10-tieng.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\152254_huong-dan-thuc-hanh-khac-phuc-su-co-va-toi-uu-hoa-microsoft-windows-8.jpg",
+      "PackagePath": "staticwebassets\\Sach\\152254_huong-dan-thuc-hanh-khac-phuc-su-co-va-toi-uu-hoa-microsoft-windows-8.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\152256_huong-dan-thuc-hanh-microsoft-windows-8-don-gian-va-de-hieu.jpg",
+      "PackagePath": "staticwebassets\\Sach\\152256_huong-dan-thuc-hanh-microsoft-windows-8-don-gian-va-de-hieu.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\15531_thuc-hanh-thiet-ke-web-chuyen-nghiep-bang-microsoft-frontpage-2003.jpg",
+      "PackagePath": "staticwebassets\\Sach\\15531_thuc-hanh-thiet-ke-web-chuyen-nghiep-bang-microsoft-frontpage-2003.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\155541_doc-vi-bat-ky-ai.jpg",
+      "PackagePath": "staticwebassets\\Sach\\155541_doc-vi-bat-ky-ai.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\15560_kham-pha-windows-xp-danh-cho-nguoi-moi-bat-dau.jpg",
+      "PackagePath": "staticwebassets\\Sach\\15560_kham-pha-windows-xp-danh-cho-nguoi-moi-bat-dau.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\155967_huan-luyen-ki-nang-ban-hang.jpg",
+      "PackagePath": "staticwebassets\\Sach\\155967_huan-luyen-ki-nang-ban-hang.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\157170_nuoi-con-khong-phai-la-cuoc-chien.jpg",
+      "PackagePath": "staticwebassets\\Sach\\157170_nuoi-con-khong-phai-la-cuoc-chien.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\16954_cac-giai-phap-lap-trinh-aspnet-20-tap-1.jpg",
+      "PackagePath": "staticwebassets\\Sach\\16954_cac-giai-phap-lap-trinh-aspnet-20-tap-1.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\16959_cac-giai-phap-lap-trinh-visual-basic-net-tap-1-dung-kem-dia.jpg",
+      "PackagePath": "staticwebassets\\Sach\\16959_cac-giai-phap-lap-trinh-visual-basic-net-tap-1-dung-kem-dia.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\16960_cac-giai-phap-lap-trinh-visual-basic-net-tap-2-dung-kem-dia.jpg",
+      "PackagePath": "staticwebassets\\Sach\\16960_cac-giai-phap-lap-trinh-visual-basic-net-tap-2-dung-kem-dia.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\16966_cac-giai-phap-lap-trinh-c-dung-kem-dia.jpg",
+      "PackagePath": "staticwebassets\\Sach\\16966_cac-giai-phap-lap-trinh-c-dung-kem-dia.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\17044_thu-thuat-lap-trinh-java-dung-kem-dia.jpg",
+      "PackagePath": "staticwebassets\\Sach\\17044_thu-thuat-lap-trinh-java-dung-kem-dia.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\17142_-2005-tap-5-lap-trinh-aspnet-20-quyen-3-dieu-khien-ket-noi-co-so-du-lieu-co-cd.jpg",
+      "PackagePath": "staticwebassets\\Sach\\17142_-2005-tap-5-lap-trinh-aspnet-20-quyen-3-dieu-khien-ket-noi-co-so-du-lieu-co-cd.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\17143_tuyen-tap-thu-thuat-javascript-tap-2.jpg",
+      "PackagePath": "staticwebassets\\Sach\\17143_tuyen-tap-thu-thuat-javascript-tap-2.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\17144_tuyen-tap-thu-thuat-javascript-tap-1.jpg",
+      "PackagePath": "staticwebassets\\Sach\\17144_tuyen-tap-thu-thuat-javascript-tap-1.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\17146_visual-basic-2005-tap-3-quyen-2-lap-trinh-web-voi-co-so-du-lieu-kem-cd-bai-tap.jpg",
+      "PackagePath": "staticwebassets\\Sach\\17146_visual-basic-2005-tap-3-quyen-2-lap-trinh-web-voi-co-so-du-lieu-kem-cd-bai-tap.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\17150_tu-hoc-thiet-ke-web-tap-2.jpg",
+      "PackagePath": "staticwebassets\\Sach\\17150_tu-hoc-thiet-ke-web-tap-2.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\17193_php-va-ung-dung-web-nguon-mo-tap-1-blog.jpg",
+      "PackagePath": "staticwebassets\\Sach\\17193_php-va-ung-dung-web-nguon-mo-tap-1-blog.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\17223_thiet-ke-website-voi-cong-cu-ho-tro-truc-tuyen.jpg",
+      "PackagePath": "staticwebassets\\Sach\\17223_thiet-ke-website-voi-cong-cu-ho-tro-truc-tuyen.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\17263_xay-dung-website-voi-dreamwaver-8.jpg",
+      "PackagePath": "staticwebassets\\Sach\\17263_xay-dung-website-voi-dreamwaver-8.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\17571_macromedia-dreamweaver-8-phan-nang-cao.jpg",
+      "PackagePath": "staticwebassets\\Sach\\17571_macromedia-dreamweaver-8-phan-nang-cao.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\17572_c-2005-tap-5-lap-trinh-aspnet-quyen-4-doi-tuong-adonet-20-va-xml-co-cd-kem-theo.jpg",
+      "PackagePath": "staticwebassets\\Sach\\17572_c-2005-tap-5-lap-trinh-aspnet-quyen-4-doi-tuong-adonet-20-va-xml-co-cd-kem-theo.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\17574_tu-hoc-thiet-ke-web-tap-1-dung-kem-dia-cd.jpg",
+      "PackagePath": "staticwebassets\\Sach\\17574_tu-hoc-thiet-ke-web-tap-1-dung-kem-dia-cd.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\17580_c-2005-tap-5-lap-trinh-aspnet-20-quyen-3-dieu-khien-ket-noi-co-so-du-lieu-co-cd.jpg",
+      "PackagePath": "staticwebassets\\Sach\\17580_c-2005-tap-5-lap-trinh-aspnet-20-quyen-3-dieu-khien-ket-noi-co-so-du-lieu-co-cd.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\17607_xay-dung-forum-voi-webwizforum.jpg",
+      "PackagePath": "staticwebassets\\Sach\\17607_xay-dung-forum-voi-webwizforum.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\17633_tu-hoc-thiet-ke-web.jpg",
+      "PackagePath": "staticwebassets\\Sach\\17633_tu-hoc-thiet-ke-web.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\17722_hoc-thiet-ke-web-bang-hinh-minh-hoa-tap-2.jpg",
+      "PackagePath": "staticwebassets\\Sach\\17722_hoc-thiet-ke-web-bang-hinh-minh-hoa-tap-2.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\18261_thu-thuat-windows-xp.jpg",
+      "PackagePath": "staticwebassets\\Sach\\18261_thu-thuat-windows-xp.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\206668_thuong-kinh-ky-su.jpg",
+      "PackagePath": "staticwebassets\\Sach\\206668_thuong-kinh-ky-su.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\212483_mong-kinh-su.jpg",
+      "PackagePath": "staticwebassets\\Sach\\212483_mong-kinh-su.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\222227_cau-chuyen-ben-noi-lau.jpg",
+      "PackagePath": "staticwebassets\\Sach\\222227_cau-chuyen-ben-noi-lau.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\222490_combo-hillary-clinton-bi-mat-quoc-gia-va-su-hoi-sinh-donald-j-trump-da-den-luc.jpg",
+      "PackagePath": "staticwebassets\\Sach\\222490_combo-hillary-clinton-bi-mat-quoc-gia-va-su-hoi-sinh-donald-j-trump-da-den-luc.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\223405_donald-trump-tro-lo-truyen-thong-hay-bo-oc-vi-dai.jpg",
+      "PackagePath": "staticwebassets\\Sach\\223405_donald-trump-tro-lo-truyen-thong-hay-bo-oc-vi-dai.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\225865_nui-xanh-nay-van-do.jpg",
+      "PackagePath": "staticwebassets\\Sach\\225865_nui-xanh-nay-van-do.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\226200_loi-tua-mot-tinh-yeu.jpg",
+      "PackagePath": "staticwebassets\\Sach\\226200_loi-tua-mot-tinh-yeu.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\226685_chuyen-nha-bong-bom-bach.jpg",
+      "PackagePath": "staticwebassets\\Sach\\226685_chuyen-nha-bong-bom-bach.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\227063_yeu-con-nhu-nang-xuan.jpg",
+      "PackagePath": "staticwebassets\\Sach\\227063_yeu-con-nhu-nang-xuan.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\22780_108-thu-thuat-tu-lam-chu-windows-vista.jpg",
+      "PackagePath": "staticwebassets\\Sach\\22780_108-thu-thuat-tu-lam-chu-windows-vista.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\228637_dac-nhan-tam-tai-ban-2016.jpg",
+      "PackagePath": "staticwebassets\\Sach\\228637_dac-nhan-tam-tai-ban-2016.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\228645_ngay-xua-co-mot-chuyen-tinh-bia-mem-kem-qua-tang.jpg",
+      "PackagePath": "staticwebassets\\Sach\\228645_ngay-xua-co-mot-chuyen-tinh-bia-mem-kem-qua-tang.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\230308_mua-he-nam-ay.jpg",
+      "PackagePath": "staticwebassets\\Sach\\230308_mua-he-nam-ay.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\234109_tuoi-tre-dang-gia-bao-nhieu.jpg",
+      "PackagePath": "staticwebassets\\Sach\\234109_tuoi-tre-dang-gia-bao-nhieu.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\236459_cuoc-song-thuong-luu-cua-hoang-de-meo.jpg",
+      "PackagePath": "staticwebassets\\Sach\\236459_cuoc-song-thuong-luu-cua-hoang-de-meo.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\237369_dan-ba-hu-ao.jpg",
+      "PackagePath": "staticwebassets\\Sach\\237369_dan-ba-hu-ao.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\23862_huong-dan-hoc-windows-xp-can-ban.jpg",
+      "PackagePath": "staticwebassets\\Sach\\23862_huong-dan-hoc-windows-xp-can-ban.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\238977_ve-dau-nhung-vet-thuong.jpg",
+      "PackagePath": "staticwebassets\\Sach\\238977_ve-dau-nhung-vet-thuong.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\243526_ngoai-bo-dong-la-mat-troi.jpg",
+      "PackagePath": "staticwebassets\\Sach\\243526_ngoai-bo-dong-la-mat-troi.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\245453_hoang-le-nhat-thong-chi-dien-nghia.jpg",
+      "PackagePath": "staticwebassets\\Sach\\245453_hoang-le-nhat-thong-chi-dien-nghia.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\246166_loi-song-toi-gian-cua-nguoi-nhat.jpg",
+      "PackagePath": "staticwebassets\\Sach\\246166_loi-song-toi-gian-cua-nguoi-nhat.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\248142_leu-chong.jpg",
+      "PackagePath": "staticwebassets\\Sach\\248142_leu-chong.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\251785_guong-sang-nguoi-xua-bien-cuong-vung-chac-xa-tac-dai-lau.jpg",
+      "PackagePath": "staticwebassets\\Sach\\251785_guong-sang-nguoi-xua-bien-cuong-vung-chac-xa-tac-dai-lau.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\254304_thanh-tong-di-thao.jpg",
+      "PackagePath": "staticwebassets\\Sach\\254304_thanh-tong-di-thao.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\256862_viet-su-nhung-guong-mat-phan-dien.jpg",
+      "PackagePath": "staticwebassets\\Sach\\256862_viet-su-nhung-guong-mat-phan-dien.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\258204_nguoi-quan-tuong-cua-vua-quang-trung.jpg",
+      "PackagePath": "staticwebassets\\Sach\\258204_nguoi-quan-tuong-cua-vua-quang-trung.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\270445_thien-ha-chi-vuong.jpg",
+      "PackagePath": "staticwebassets\\Sach\\270445_thien-ha-chi-vuong.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\270454_vu-tich.jpg",
+      "PackagePath": "staticwebassets\\Sach\\270454_vu-tich.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\270796_power-course-english-in-4-weeks-thong-thao-tieng-anh-chi-trong-4-tuan-kem-1-cd.jpg",
+      "PackagePath": "staticwebassets\\Sach\\270796_power-course-english-in-4-weeks-thong-thao-tieng-anh-chi-trong-4-tuan-kem-1-cd.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\271456_ho-duong-tap-1-ngay-ve-gia-dinh.jpg",
+      "PackagePath": "staticwebassets\\Sach\\271456_ho-duong-tap-1-ngay-ve-gia-dinh.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\271471_ho-duong-tap-2-nam-bac-dai-thong.jpg",
+      "PackagePath": "staticwebassets\\Sach\\271471_ho-duong-tap-2-nam-bac-dai-thong.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\271697_cu-hich-tai-ban-2017.jpg",
+      "PackagePath": "staticwebassets\\Sach\\271697_cu-hich-tai-ban-2017.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\271751_barrons-600-essential-words-for-the-toeic-kem-2-cd-tai-ban-2016.jpg",
+      "PackagePath": "staticwebassets\\Sach\\271751_barrons-600-essential-words-for-the-toeic-kem-2-cd-tai-ban-2016.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\271842_bo-flashcards-600-essential-words-for-the-toeic-tai-ban-2017.jpg",
+      "PackagePath": "staticwebassets\\Sach\\271842_bo-flashcards-600-essential-words-for-the-toeic-tai-ban-2017.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\271940_bai-tap-ngu-phap-tieng-anh-co-ban-danh-cho-hoc-sinh-quyen-5.jpg",
+      "PackagePath": "staticwebassets\\Sach\\271940_bai-tap-ngu-phap-tieng-anh-co-ban-danh-cho-hoc-sinh-quyen-5.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\271949_bai-tap-ngu-phap-tieng-anh-co-ban-danh-cho-hoc-sinh-quyen-6.jpg",
+      "PackagePath": "staticwebassets\\Sach\\271949_bai-tap-ngu-phap-tieng-anh-co-ban-danh-cho-hoc-sinh-quyen-6.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\271958_bai-tap-ngu-phap-tieng-anh-co-ban-danh-cho-hoc-sinh-quyen-2.jpg",
+      "PackagePath": "staticwebassets\\Sach\\271958_bai-tap-ngu-phap-tieng-anh-co-ban-danh-cho-hoc-sinh-quyen-2.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\271969_bai-tap-ngu-phap-tieng-anh-co-ban-danh-cho-hoc-sinh-quyen-3.jpg",
+      "PackagePath": "staticwebassets\\Sach\\271969_bai-tap-ngu-phap-tieng-anh-co-ban-danh-cho-hoc-sinh-quyen-3.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\272080_con-khong-ngoc-con-chi-thong-minh-theo-mot-cach-khac-tai-ban-2017.jpg",
+      "PackagePath": "staticwebassets\\Sach\\272080_con-khong-ngoc-con-chi-thong-minh-theo-mot-cach-khac-tai-ban-2017.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\272270_listening-strategies-for-the-ielts-test-book-2-kem-1-cd.jpg",
+      "PackagePath": "staticwebassets\\Sach\\272270_listening-strategies-for-the-ielts-test-book-2-kem-1-cd.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\272279_listening-strategies-for-the-ielts-test-book-1-kem-1-cd.jpg",
+      "PackagePath": "staticwebassets\\Sach\\272279_listening-strategies-for-the-ielts-test-book-1-kem-1-cd.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\272302_bai-tap-ngu-phap-tieng-anh-co-ban-danh-cho-hoc-sinh-quyen-1.jpg",
+      "PackagePath": "staticwebassets\\Sach\\272302_bai-tap-ngu-phap-tieng-anh-co-ban-danh-cho-hoc-sinh-quyen-1.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\272304_bai-tap-ngu-phap-tieng-anh-co-ban-danh-cho-hoc-sinh-quyen-4.jpg",
+      "PackagePath": "staticwebassets\\Sach\\272304_bai-tap-ngu-phap-tieng-anh-co-ban-danh-cho-hoc-sinh-quyen-4.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\273513_cham-soc-suc-khoe-tre-em-tap-1-sua-me-sua-cong-thuc.jpg",
+      "PackagePath": "staticwebassets\\Sach\\273513_cham-soc-suc-khoe-tre-em-tap-1-sua-me-sua-cong-thuc.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\274341_bai-tap-bo-tro-ky-nang-viet-tieng-anh.jpg",
+      "PackagePath": "staticwebassets\\Sach\\274341_bai-tap-bo-tro-ky-nang-viet-tieng-anh.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\274350_cac-dang-bai-tap-chua-loi-sai-tieng-anh.jpg",
+      "PackagePath": "staticwebassets\\Sach\\274350_cac-dang-bai-tap-chua-loi-sai-tieng-anh.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\274359_120-bai-luan-tieng-anh.jpg",
+      "PackagePath": "staticwebassets\\Sach\\274359_120-bai-luan-tieng-anh.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\274379_hoan-thien-ky-nang-phat-am-va-danh-dau-trong-am-tieng-anh.jpg",
+      "PackagePath": "staticwebassets\\Sach\\274379_hoan-thien-ky-nang-phat-am-va-danh-dau-trong-am-tieng-anh.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\274611_3-nguoi-thay-vi-dai.jpg",
+      "PackagePath": "staticwebassets\\Sach\\274611_3-nguoi-thay-vi-dai.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\274616_mind-map-english-hoc-tieng-anh-theo-so-do-tu-duy-kem-1-cd.jpg",
+      "PackagePath": "staticwebassets\\Sach\\274616_mind-map-english-hoc-tieng-anh-theo-so-do-tu-duy-kem-1-cd.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\274618_forgotten-english-conversation-tieng-anh-ngoai-lop-hoc-kem-1-cd.jpg",
+      "PackagePath": "staticwebassets\\Sach\\274618_forgotten-english-conversation-tieng-anh-ngoai-lop-hoc-kem-1-cd.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\274636_luyen-thi-toeic-750-reading-tai-ban-2017.jpg",
+      "PackagePath": "staticwebassets\\Sach\\274636_luyen-thi-toeic-750-reading-tai-ban-2017.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\275018_ba-me-oi-con-bi-bat-nat.jpg",
+      "PackagePath": "staticwebassets\\Sach\\275018_ba-me-oi-con-bi-bat-nat.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\275185_con-gai-cua-me.jpg",
+      "PackagePath": "staticwebassets\\Sach\\275185_con-gai-cua-me.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\275187_nu-hon-tu-than-phan-4-series-tho-san-dem.jpg",
+      "PackagePath": "staticwebassets\\Sach\\275187_nu-hon-tu-than-phan-4-series-tho-san-dem.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\275246_tren-duong-bang-tai-ban-2017.jpg",
+      "PackagePath": "staticwebassets\\Sach\\275246_tren-duong-bang-tai-ban-2017.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\275589_khien-nguoi-khac-thay-doi-suy-nghi.jpg",
+      "PackagePath": "staticwebassets\\Sach\\275589_khien-nguoi-khac-thay-doi-suy-nghi.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\275713_cung-con-chao-lop-1.jpg",
+      "PackagePath": "staticwebassets\\Sach\\275713_cung-con-chao-lop-1.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\275764_toeic-analyst-second-edition-kem-3-cd-tai-ban-2015.jpg",
+      "PackagePath": "staticwebassets\\Sach\\275764_toeic-analyst-second-edition-kem-3-cd-tai-ban-2015.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\275807_bi-quyet-luyen-thi-ielts-kem-1-cd-tai-ban-92017.jpg",
+      "PackagePath": "staticwebassets\\Sach\\275807_bi-quyet-luyen-thi-ielts-kem-1-cd-tai-ban-92017.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\275857_outlander-chuon-chuon-ho-phach-tap-2.jpg",
+      "PackagePath": "staticwebassets\\Sach\\275857_outlander-chuon-chuon-ho-phach-tap-2.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\275986_co-gai-vuot-thoi-gian-tang-kem-so-tay.jpg",
+      "PackagePath": "staticwebassets\\Sach\\275986_co-gai-vuot-thoi-gian-tang-kem-so-tay.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\276019_den-thuong-de-cung-phai-dong-y.jpg",
+      "PackagePath": "staticwebassets\\Sach\\276019_den-thuong-de-cung-phai-dong-y.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\276030_grammar-is-not-boring-ngu-phap-khong-te-nhat.jpg",
+      "PackagePath": "staticwebassets\\Sach\\276030_grammar-is-not-boring-ngu-phap-khong-te-nhat.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\276091_con-bo-tia-tai-ban-2017.jpg",
+      "PackagePath": "staticwebassets\\Sach\\276091_con-bo-tia-tai-ban-2017.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\276103_me-binh-thuong-day-con-uu-tu.jpg",
+      "PackagePath": "staticwebassets\\Sach\\276103_me-binh-thuong-day-con-uu-tu.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\276191_ibosses-thu-linh-so-the-he-y.jpg",
+      "PackagePath": "staticwebassets\\Sach\\276191_ibosses-thu-linh-so-the-he-y.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\276245_do-the-math-lam-toan-trinh-do-1-tap-2-kem-1-cd.jpg",
+      "PackagePath": "staticwebassets\\Sach\\276245_do-the-math-lam-toan-trinh-do-1-tap-2-kem-1-cd.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\276259_dao-nguoc.jpg",
+      "PackagePath": "staticwebassets\\Sach\\276259_dao-nguoc.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\276268_days-and-nights-ngay-va-dem-trinh-do-1-tap-1-kem-1-cd.jpg",
+      "PackagePath": "staticwebassets\\Sach\\276268_days-and-nights-ngay-va-dem-trinh-do-1-tap-1-kem-1-cd.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\276284_khoi-nghiep-doi-moi-sang-tao-tu-duy-cong-cu.jpg",
+      "PackagePath": "staticwebassets\\Sach\\276284_khoi-nghiep-doi-moi-sang-tao-tu-duy-cong-cu.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\276320_tam-trieu-vua-ly-hop-4-cuon-tai-ban-2017.jpg",
+      "PackagePath": "staticwebassets\\Sach\\276320_tam-trieu-vua-ly-hop-4-cuon-tai-ban-2017.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\276321_biet-doi-blockbusters-bi-an-buc-tranh-cua-picasso.jpg",
+      "PackagePath": "staticwebassets\\Sach\\276321_biet-doi-blockbusters-bi-an-buc-tranh-cua-picasso.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\276338_khong-noi-nuong-tua-tai-ban-2017.jpg",
+      "PackagePath": "staticwebassets\\Sach\\276338_khong-noi-nuong-tua-tai-ban-2017.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\276340_fujiko-f-fujio-dai-tuyen-tap-doraemon-truyen-dai-tap-2.jpg",
+      "PackagePath": "staticwebassets\\Sach\\276340_fujiko-f-fujio-dai-tuyen-tap-doraemon-truyen-dai-tap-2.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\276342_yu-gi-oh-tap-26.jpg",
+      "PackagePath": "staticwebassets\\Sach\\276342_yu-gi-oh-tap-26.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\31231_huong-dan-mua-linh-kien-cach-su-dung-may-laptop-tap-2.jpg",
+      "PackagePath": "staticwebassets\\Sach\\31231_huong-dan-mua-linh-kien-cach-su-dung-may-laptop-tap-2.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\31232_huong-dan-mua-linh-kien-cach-su-dung-may-laptop-tap-1.jpg",
+      "PackagePath": "staticwebassets\\Sach\\31232_huong-dan-mua-linh-kien-cach-su-dung-may-laptop-tap-1.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\31498_tu-khac-phuc-may-tinh-khi-bi-vi-rut-tan-cong.jpg",
+      "PackagePath": "staticwebassets\\Sach\\31498_tu-khac-phuc-may-tinh-khi-bi-vi-rut-tan-cong.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\31501_tu-hoc-nhanh-windows-xp.jpg",
+      "PackagePath": "staticwebassets\\Sach\\31501_tu-hoc-nhanh-windows-xp.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\33102_180-thu-thuat-va-meo-hay-trong-window-7.jpg",
+      "PackagePath": "staticwebassets\\Sach\\33102_180-thu-thuat-va-meo-hay-trong-window-7.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\33106_cach-cai-dat-va-su-dung-can-ban-nhat-windows-7.jpg",
+      "PackagePath": "staticwebassets\\Sach\\33106_cach-cai-dat-va-su-dung-can-ban-nhat-windows-7.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\33447_tu-hoc-lap-rap-va-sua-chua-may-tinh.jpg",
+      "PackagePath": "staticwebassets\\Sach\\33447_tu-hoc-lap-rap-va-sua-chua-may-tinh.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\35419_tu-hoc-xu-ly-su-co-thuong-gap-tren-may-vi-tinh.jpg",
+      "PackagePath": "staticwebassets\\Sach\\35419_tu-hoc-xu-ly-su-co-thuong-gap-tren-may-vi-tinh.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\44551_huong-dan-su-dung-microsoft-windows-7-professional-toan-tap.jpg",
+      "PackagePath": "staticwebassets\\Sach\\44551_huong-dan-su-dung-microsoft-windows-7-professional-toan-tap.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\Sach\\49206_comptia-a-huong-dan-ve-phan-cung-quan-ly-bao-tri-va-xu-ly-su-co-phien-ban-lan-5.jpg",
+      "PackagePath": "staticwebassets\\Sach\\49206_comptia-a-huong-dan-ve-phan-cung-quan-ly-bao-tri-va-xu-ly-su-co-phien-ban-lan-5.jpg"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KIỂM TRA GIỮA KÌ\\LUYETTAPTHEM\\1. alazea-gh-pages\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.1. alazea-gh-pages.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.1. alazea-gh-pages.props",
+      "PackagePath": "build\\1. alazea-gh-pages.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.1. alazea-gh-pages.props",
+      "PackagePath": "buildMultiTargeting\\1. alazea-gh-pages.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.1. alazea-gh-pages.props",
+      "PackagePath": "buildTransitive\\1. alazea-gh-pages.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
