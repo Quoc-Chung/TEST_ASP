@@ -1,0 +1,29 @@
+﻿
+SELECT * FROM tBanSaoSach;
+
+
+SELECT * FROM tDocGia;
+
+
+
+SELECT * FROM tLoaiSach;
+
+
+
+SELECT * FROM tMuonTra;
+
+
+
+SELECT * FROM tNgonNgu;
+
+
+
+SELECT * FROM tNhaXB;
+
+
+
+SELECT * FROM tSach;
+
+
+
+SELECT * FROM tTheDocGia;

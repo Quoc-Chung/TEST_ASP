@@ -7,20 +7,24 @@
       "RelativeMoniker": "D:0:0:{417A0D2B-C4E3-4F5D-803D-58D153A82EFA}|1. alazea-gh-pages.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{417A0D2B-C4E3-4F5D-803D-58D153A82EFA}|1. alazea-gh-pages.csproj|d:\\ki_mot_nam_ba\\lap_trinh_web\\ki\u1EC3m tra gi\u1EEFa k\u00EC\\luyettapthem\\1. alazea-gh-pages\\controllers\\homeapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{417A0D2B-C4E3-4F5D-803D-58D153A82EFA}|1. alazea-gh-pages.csproj|solutionrelative:controllers\\homeapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{417A0D2B-C4E3-4F5D-803D-58D153A82EFA}|1. alazea-gh-pages.csproj|d:\\ki_mot_nam_ba\\lap_trinh_web\\ki\u1EC3m tra gi\u1EEFa k\u00EC\\luyettapthem\\1. alazea-gh-pages\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{417A0D2B-C4E3-4F5D-803D-58D153A82EFA}|1. alazea-gh-pages.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{417A0D2B-C4E3-4F5D-803D-58D153A82EFA}|1. alazea-gh-pages.csproj|d:\\ki_mot_nam_ba\\lap_trinh_web\\ki\u1EC3m tra gi\u1EEFa k\u00EC\\luyettapthem\\1. alazea-gh-pages\\views\\home\\themsachmoi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{417A0D2B-C4E3-4F5D-803D-58D153A82EFA}|1. alazea-gh-pages.csproj|solutionrelative:views\\home\\themsachmoi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{417A0D2B-C4E3-4F5D-803D-58D153A82EFA}|1. alazea-gh-pages.csproj|d:\\ki_mot_nam_ba\\lap_trinh_web\\ki\u1EC3m tra gi\u1EEFa k\u00EC\\luyettapthem\\1. alazea-gh-pages\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{417A0D2B-C4E3-4F5D-803D-58D153A82EFA}|1. alazea-gh-pages.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417A0D2B-C4E3-4F5D-803D-58D153A82EFA}|1. alazea-gh-pages.csproj|d:\\ki_mot_nam_ba\\lap_trinh_web\\ki\u1EC3m tra gi\u1EEFa k\u00EC\\luyettapthem\\1. alazea-gh-pages\\controllers\\homeapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417A0D2B-C4E3-4F5D-803D-58D153A82EFA}|1. alazea-gh-pages.csproj|solutionrelative:controllers\\homeapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417A0D2B-C4E3-4F5D-803D-58D153A82EFA}|1. alazea-gh-pages.csproj|d:\\ki_mot_nam_ba\\lap_trinh_web\\ki\u1EC3m tra gi\u1EEFa k\u00EC\\luyettapthem\\1. alazea-gh-pages\\views\\home\\chitietsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{417A0D2B-C4E3-4F5D-803D-58D153A82EFA}|1. alazea-gh-pages.csproj|solutionrelative:views\\home\\chitietsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417A0D2B-C4E3-4F5D-803D-58D153A82EFA}|1. alazea-gh-pages.csproj|d:\\ki_mot_nam_ba\\lap_trinh_web\\ki\u1EC3m tra gi\u1EEFa k\u00EC\\luyettapthem\\1. alazea-gh-pages\\views\\shared\\_layoutdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{417A0D2B-C4E3-4F5D-803D-58D153A82EFA}|1. alazea-gh-pages.csproj|solutionrelative:views\\shared\\_layoutdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +34,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 11,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KI\u1EC2M TRA GI\u1EEEA K\u00CC\\LUYETTAPTHEM\\1. alazea-gh-pages\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KI\u1EC2M TRA GI\u1EEEA K\u00CC\\LUYETTAPTHEM\\1. alazea-gh-pages\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAAAA4CAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T07:20:24.938Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
@@ -66,54 +83,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ThemSachMoi.cshtml",
-              "DocumentMoniker": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KI\u1EC2M TRA GI\u1EEEA K\u00CC\\LUYETTAPTHEM\\1. alazea-gh-pages\\Views\\Home\\ThemSachMoi.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\ThemSachMoi.cshtml",
-              "ToolTip": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KI\u1EC2M TRA GI\u1EEEA K\u00CC\\LUYETTAPTHEM\\1. alazea-gh-pages\\Views\\Home\\ThemSachMoi.cshtml",
-              "RelativeToolTip": "Views\\Home\\ThemSachMoi.cshtml",
-              "ViewState": "AgIAADkAAAAAAAAAAAAAAFoAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-21T10:06:58.49Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "HomeAPIController.cs",
-              "DocumentMoniker": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KI\u1EC2M TRA GI\u1EEEA K\u00CC\\LUYETTAPTHEM\\1. alazea-gh-pages\\Controllers\\HomeAPIController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeAPIController.cs",
-              "ToolTip": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KI\u1EC2M TRA GI\u1EEEA K\u00CC\\LUYETTAPTHEM\\1. alazea-gh-pages\\Controllers\\HomeAPIController.cs",
-              "RelativeToolTip": "Controllers\\HomeAPIController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T08:53:59.299Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KI\u1EC2M TRA GI\u1EEEA K\u00CC\\LUYETTAPTHEM\\1. alazea-gh-pages\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KI\u1EC2M TRA GI\u1EEEA K\u00CC\\LUYETTAPTHEM\\1. alazea-gh-pages\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAcwG8AAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-08T16:44:35.567Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KI\u1EC2M TRA GI\u1EEEA K\u00CC\\LUYETTAPTHEM\\1. alazea-gh-pages\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
               "ToolTip": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KI\u1EC2M TRA GI\u1EEEA K\u00CC\\LUYETTAPTHEM\\1. alazea-gh-pages\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-08T16:44:00.203Z",
+              "WhenOpened": "2024-10-22T20:36:17.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChiTietSanPham.cshtml",
+              "DocumentMoniker": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KI\u1EC2M TRA GI\u1EEEA K\u00CC\\LUYETTAPTHEM\\1. alazea-gh-pages\\Views\\Home\\ChiTietSanPham.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\ChiTietSanPham.cshtml",
+              "ToolTip": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KI\u1EC2M TRA GI\u1EEEA K\u00CC\\LUYETTAPTHEM\\1. alazea-gh-pages\\Views\\Home\\ChiTietSanPham.cshtml",
+              "RelativeToolTip": "Views\\Home\\ChiTietSanPham.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T20:35:15.846Z",
               "EditorCaption": ""
             },
             {
@@ -124,9 +115,35 @@
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
               "ToolTip": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KI\u1EC2M TRA GI\u1EEEA K\u00CC\\LUYETTAPTHEM\\1. alazea-gh-pages\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAkwFYAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAIwHEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T16:43:52.104Z",
+              "WhenOpened": "2024-10-22T20:32:12.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_LayoutDetail.cshtml",
+              "DocumentMoniker": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KI\u1EC2M TRA GI\u1EEEA K\u00CC\\LUYETTAPTHEM\\1. alazea-gh-pages\\Views\\Shared\\_LayoutDetail.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LayoutDetail.cshtml",
+              "ToolTip": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KI\u1EC2M TRA GI\u1EEEA K\u00CC\\LUYETTAPTHEM\\1. alazea-gh-pages\\Views\\Shared\\_LayoutDetail.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LayoutDetail.cshtml",
+              "ViewState": "AgIAAPIBAAAAAAAAAAAgwMcBAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T20:23:13.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeAPIController.cs",
+              "DocumentMoniker": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KI\u1EC2M TRA GI\u1EEEA K\u00CC\\LUYETTAPTHEM\\1. alazea-gh-pages\\Controllers\\HomeAPIController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeAPIController.cs",
+              "ToolTip": "D:\\KI_MOT_NAM_BA\\LAP_TRINH_WEB\\KI\u1EC2M TRA GI\u1EEEA K\u00CC\\LUYETTAPTHEM\\1. alazea-gh-pages\\Controllers\\HomeAPIController.cs",
+              "RelativeToolTip": "Controllers\\HomeAPIController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T07:48:04.694Z",
               "EditorCaption": ""
             }
           ]

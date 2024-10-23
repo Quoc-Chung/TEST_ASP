@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("1. alazea-gh-pages")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+697cf23aecb305706d0ac1a0c9e3e31d0cd46bc3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+58452a24279a5ea445269ed28fbec58db5836d78")]
 [assembly: System.Reflection.AssemblyProductAttribute("1. alazea-gh-pages")]
 [assembly: System.Reflection.AssemblyTitleAttribute("1. alazea-gh-pages")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

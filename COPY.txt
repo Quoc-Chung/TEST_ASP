@@ -1,0 +1,44 @@
+﻿ [Route("SuaSach")]
+        /*- Tạo một cái trang đưa dữ liệu lên - */
+        [HttpGet]
+        public IActionResult SuaSach(String maSach)
+        {
+            ViewBag.MaChatLieu = new SelectList(db.TChatLieus.ToList(), "MaChatLieu", "ChatLieu");
+
+            ViewBag.MaHangSx = new SelectList(db.THangSxes.ToList(), "MaHangSx", "HangSx");
+
+            ViewBag.MaNuocSx = new SelectList(db.TQuocGia.ToList(), "MaNuoc", "TenNuoc");
+
+            ViewBag.MaLoai = new SelectList(db.TLoaiSps.ToList(), "MaLoai", "Loai");
+
+            ViewBag.MaDt = new SelectList(db.TLoaiDts.ToList(), "MaDt", "TenLoai");
+
+            var Sach = db.TDanhMucSps.Find(maSach);
+            /*- HIỆN NÓ LÊN BẰNG CÁCH RETURN VỀ VIEW SẢN PHẨM -*/
+            return View(Sach);
+        }
+
+-	LẤY RA VÀ TRẢ VỀ CÁI SẢN PHẨM ĐẤY ĐỂ SẢN PHẨM ĐẤY ĐƯỢC HIỂN THỊ
+
+
+  [Route("SuaSach")]
+  /*- Tạo một cái trang đưa dữ liệu lên - */
+  [HttpPost]
+        /* - Kiểm tra dữ liệu nhập vào có chính xác với quy định về validation không  -*/
+        [ValidateAntiForgeryToken]
+        public IActionResult SuaSach(TDanhMucSp Sach)
+        {
+            if (ModelState.IsValid)
+            {
+                db.Update(Sach);
+                db.SaveChanges();
+                /* - SAU KHI TẠO MỚI XONG SẼ CHUYỂN SANG DANH MụC SẢN PHẨM -*/
+                return RedirectToAction("DanhMucSach", "HomeAdmin");
+            }
+
+            /* - NẾU NHẬP KHÔNG CHÍNH XÁC THÌ CÓ THỂ NHẬP LẠI ĐỂ TẠO CÁI VIEW CHO HỌ CÓ THỂ NHẬP LẠI -*/
+            return View(Sach);
+        }
+
+
+

@@ -33,7 +33,9 @@
                 <h6>@item.GiaTriSach</h6>
             </div>
             <a asp-controller ="Home" asp-action="ThemSachMoi" > THEM MOI </a>
+            <a asp-controller="Home" asp-action="SuaSach" asp-route-MaSach="@item.MaSach"> SUA </a>
             <a asp-controller="Home" asp-action="XoaSach" asp-route-MaSach ="@item.MaSach"> XOA SACH</a>
+            <a asp-controller="Home" asp-action="ChiTietSanPham" asp-route-MaSach="@item.MaSach"> CHI TIET</a>
         </div>
     </div>
 }
